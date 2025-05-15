@@ -1,0 +1,15 @@
+@charast "utf-8";
+
+body {
+    background-color:cornflowerblue;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    color:goldenrod;
+    font-size: 24px
+}
